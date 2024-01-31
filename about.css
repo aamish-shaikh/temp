@@ -1,0 +1,13 @@
+.about-p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f0a3b;
+    color: white;
+    padding: 5%;
+}
+.about-p p{
+    font-weight: 300;
+    width: 70%;
+}
